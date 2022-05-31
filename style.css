@@ -1,0 +1,49 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+/* .navbar {
+    padding-left: 110px;
+} */
+
+.navbar ul {
+    overflow: auto;
+    margin-left: 530px;
+}
+
+.navbar li {
+    float: left;
+    list-style: none;
+    cursor: pointer;
+    padding-right: 37px;
+    margin-top: 23px;
+    font-size: 20px;
+}
+
+.text-head{
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+
+input
+{
+    background: grey;
+}
